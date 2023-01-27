@@ -3,3 +3,7 @@
 data/
 lightgbm-3.2.1/
 submit_lgbm.csv
+result/
+result_2/
+submit_5.csv
+
