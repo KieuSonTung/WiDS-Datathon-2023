@@ -3,3 +3,10 @@
 data/
 lightgbm-3.2.1/
 submit_lgbm.csv
+Params_tunning/
+delete_later/
+ft_imp.csv
+submit.csv
+submit_4fun.csv
+submit_ensemble.csv
+submit_tunning_1.csv
